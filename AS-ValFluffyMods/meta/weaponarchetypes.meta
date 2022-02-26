@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>val_fm</modelName>
+			<txdName>val_fm</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>valsupp_fm</modelName>
+			<txdName>val_fm</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="0"/>
+		</Item>
+		<Item>
+			<modelName>valmag2_fm</modelName>
+			<txdName>val_fm</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>valmag1_fm</modelName>
+			<txdName>val_fm</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>valmodified_mm</modelName>
+			<txdName>val_mm</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>valsupp_mm</modelName>
+			<txdName>val_mm</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="0"/>
+		</Item>
+		<Item>
+			<modelName>valmag2_mm</modelName>
+			<txdName>val_mm</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>valmag1_mm</modelName>
+			<txdName>val_mm</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+
